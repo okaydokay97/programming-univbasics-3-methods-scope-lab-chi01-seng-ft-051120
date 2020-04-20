@@ -13,7 +13,7 @@ def link
   puts $words
 end
 
-def all 
+def all_phrases
   mario 
   toadstool
   link
