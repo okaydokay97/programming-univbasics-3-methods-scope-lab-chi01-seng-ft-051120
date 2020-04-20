@@ -11,4 +11,4 @@ end
 def link 
   puts $words
   $words= "It's Dangerous To Go Alone! Take This."
-  
+end
