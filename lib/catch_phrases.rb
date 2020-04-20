@@ -7,3 +7,7 @@ end
 def toadstool
   puts $status
 end
+
+def link 
+  puts words
+  $words= 
